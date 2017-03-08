@@ -1,0 +1,58 @@
+body {
+	font-family: 'Orbitron', sans-serif;
+	text-align:center;
+	color: white;
+	background-color: black;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	margin: 10px;
+	color: red;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	letter-spacing: 2px;
+}
+
+h3 {
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size: 40px;
+	font-variant: normal;
+	font-weight: bold;
+}
+
+#word {
+	color: red;
+	text-decoration: underline;	
+	font-size: 100px;
+}
+
+#letters {
+	font-size: 20px;
+	background-color: grey;
+	opacity: 0.7; 
+	margin: 10px;
+	padding: 10px;
+	border-radius: 3px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#letters a {
+	color: blue;
+	text-decoration: none;
+	padding: 3px;
+}
+
+#letters a:hover {
+	color: Yellow;
+	text-decoration: none;
+	background-color: silver;
+	padding: 3px;
+	border-radius: 3px;
+}
